@@ -9,7 +9,7 @@ By @wadadaaa / [lopatinski@gmail.com](mailto:lopatinski@gmail.com)/
 
 ## 👩‍💻 How to start
 
-- just clone from repository
+- clone from repository ##git clone [https://github.com/wadadaaa/react-starter.git]
 - npm install
 - npm run dev
 
